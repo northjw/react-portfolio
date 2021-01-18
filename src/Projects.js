@@ -8,10 +8,10 @@ function Projects(props) {
     <div>
       <h1>Projects</h1>
       <Thumbnail
-        link=""
+        link="/burger"
         image=""
-        title=""
-        category=""
+        title="Eat Da Burger"
+        category="App"
       />
 
 <Thumbnail
