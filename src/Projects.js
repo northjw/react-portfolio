@@ -13,6 +13,34 @@ function Projects(props) {
         title=""
         category=""
       />
+
+<Thumbnail
+        link=""
+        image=""
+        title=""
+        category=""
+      />
+
+<Thumbnail
+        link=""
+        image=""
+        title=""
+        category=""
+      />
+
+<Thumbnail
+        link=""
+        image=""
+        title=""
+        category=""
+      />
+
+<Thumbnail
+        link=""
+        image=""
+        title=""
+        category=""
+      />
     </div>
   )
 }
