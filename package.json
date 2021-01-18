@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "react based portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "framer-motion": "^3.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northjw/react-portfolio.git"
+  },
+  "author": "Josh North",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northjw/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/northjw/react-portfolio#readme"
+}
