@@ -5,7 +5,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  h1 {
+  h1 { color: rgb(233, 31, 206);
+    background-color: black;
+    width: 100%;
+    text-align: center;
     font-size: 3rem;
     line-height: 20px;
   }

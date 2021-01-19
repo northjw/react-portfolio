@@ -1,20 +1,26 @@
 .navbar-wrapper {
-  width: 80vw;
+  background-color: black;
+  color: rgb(233, 31, 206);
+  width: 100vw;
   margin-top: 10vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
   .name {
+    font-size: larger;
     font-weight: 600;
+    margin-left: 10vh;
   }
   .links-wrapper {
     button {
+      color: rgb(233, 31, 206);
       text-decoration: none;
+      margin-right: 2.5vh;
       padding: 10px;
       font-family: "Open Sans";
       opacity: 0.6;
       transition: all 0.2s ease-in-out;
-      font-size: 12px;
+      font-size: 18px;
       background-color: transparent;
       outline: none;
       border: 0px;

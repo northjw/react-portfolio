@@ -26,6 +26,8 @@
     }
 
     h1 {
+      color: rgb(233, 31, 206);
+      background-color: black;
       font-size: 3rem;
       line-height: 20px;
       @include media(">=tablet", "<desktop") {
