@@ -13,7 +13,7 @@ A React Portfolio that showcases my projects from my course at Columbia Universi
 - [Usage](#usage)<br />
 - [License](#license)<br />
 - [Contributors](#contributors)<br />
-- [Video Tutorial](#video)<br />
+- [Deployed Portfolio](#link)<br />
 - [Questions](#questions)<br />
 
 
@@ -30,6 +30,8 @@ A React Portfolio that showcases my projects from my course at Columbia Universi
 ## Contributors ##
   Greg K. (tutur), Ask BCS, Jon Cohen (Google), Erin Moynihan (Pandora),
 
+## Link ##  
+https://northjw.github.io/react-portfolio/
 
  ##  Questions  ## 
  GitHub: [northjw1](https://github.com/northjw1) <br />
