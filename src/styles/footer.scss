@@ -7,6 +7,8 @@
   align-items: center;
   h1 { color: rgb(233, 31, 206);
     background-color: black;
+    padding: 20px;
+    font-weight: 200;
     width: 100%;
     text-align: center;
     font-size: 3rem;
@@ -28,6 +30,9 @@
   .email-link {
     font-size: 1.5rem;
     color: rgb(233, 31, 206);
+    background-color: black;
+    padding: 10px;
+    font-weight: 200;
   }
   .social-icons {
     margin-top: 20px;
