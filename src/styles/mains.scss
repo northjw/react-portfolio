@@ -20,7 +20,7 @@
 }
 
 body {
- background-color: rgb(119, 119, 121);
+ background-color: rgb(222, 198, 0);
   margin: 0;
   padding: 0;
   overflow-y: scroll;
@@ -45,14 +45,17 @@ body {
 .primary-btn {
   margin: 10px;
   padding: 10px;
+  border-radius: 5px;
   background-color: black;
-  color: rgb(233, 31, 206);
+  color: rgb(8, 163, 250);
+  
   
   border: 0px;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
   cursor: pointer;
-  &:hover {
-    transform: scale(1.1);
-  }
+      &:hover {
+        background-color:rgb(216, 146, 15);
+        color: black;
+      }
 }

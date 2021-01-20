@@ -18,15 +18,16 @@ export default {
   name: "Josh North",
   headerTagline: [
     //Line 1 For Header
-    "Designer",
+    "Designer,",
     //Line 2 For Header
     "Web Developer,",
     //Line 3 For Header
-    "Artist",
+    " Artist.",
+    
   ],
   //   Header Paragraph
   headerParagraph:
-    "“Good design is like a refrigerator—when it works, no one notices, but when it doesn’t, it sure stinks.”   ---–Irene Au",
+    "“Good design is like a refrigerator — -- when it works, no one notices, but when it doesn’t, it sure stinks.”   ---–Irene Au",
 
   //Contact Email
   contactEmail: "northjw1@gmail.com",
@@ -37,7 +38,7 @@ export default {
   projects: [
     {
       id: 1, 
-      title: "Weather Forcaster", 
+      title: "Weather Forecaster", 
       para:
         "A weather forecast app that allows the user to search for weather conditions currently in any city. It also shows the next 5 day forecast.", 
       imageSrc:
