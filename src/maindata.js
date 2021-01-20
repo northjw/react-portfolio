@@ -12,8 +12,7 @@ import linkedinIcon from "./images/linkedin.png"
 
 
 export default {
-  //(Please Do Not Remove The comma(,) after every variable)
-  //Change The Website Template
+  
 
   //   Header Details ---------------------
   name: "Josh North",
@@ -37,71 +36,68 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      id: 1, //DO NOT CHANGE THIS (Please)😅
-      title: "Project One", //Project Title - Add Your Project Title Here
+      id: 1, 
+      title: "Weather Forcaster", 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "A weather forecast app that allows the user to search for weather conditions currently in any city. It also shows the next 5 day forecast.", 
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://images.unsplash.com/photo-1577648188599-291bb8b831c3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1358&q=80",
+     
+      url: "https://northjw.github.io/weather-forecaster/",
     },
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      id: 2, 
+      title: "Note Taker", 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "This is an application that uses express so that the user can create, save, and delete notes.", 
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      "https://images.unsplash.com/photo-1560762484-813fc97650a0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+     
+      url: "https://calm-castle-82091.herokuapp.com/",
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      id: 3, 
+      title: "Recipe Rolodex", 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "This application allows you to search recipes, favorite recipes, create a shopping list, and search recipe videos on YouTube.", 
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      "https://images.unsplash.com/photo-1516116412344-6663387e8590?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+     
+      url: "https://sabinehutter.github.io/Recipe-Rolodex/",
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      id: 4, 
+      title: "The Good Samaritan", 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+      "This is a covid tracer application that allows users to log locations they have visited by date. If a user receives a positive test result for covid 19, they then report it to the app. The app then compiles a list of everone who may have had exposure at the same locations, generates an email, and informs the users of a possible exposure.",
+        
+    
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://images.unsplash.com/photo-1592991538534-00972b6f59ab?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+     
+      url: "https://the-good-samaritan-covid-track.herokuapp.com/",
     },
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      id: 5, 
+      title: "Body Of Work || Fitness Tracker", 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "An app that allows a user to log multiple exercises in a workout on a given day, to be able to track the name, type, weight, sets, reps, and duration of exercise. when the exercise is a cardio exercise, the user is able to track their distance traveled.", 
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://images.unsplash.com/photo-1603297638322-c7a08d52966c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+     
+      url: "https://fierce-harbor-15977.herokuapp.com/?id=5fefb0efe2381700171b96b0",
     },
     {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      id: 6, 
+      title: "Budget Tracker", 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "Track your withdrawals and deposits with this budget tracker that works online and offline!", 
       imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://images.unsplash.com/photo-1563191911-e65f8655ebf9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+     
+      url: "https://hidden-plateau-34179.herokuapp.com/",
     },
+    
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
@@ -123,9 +119,8 @@ export default {
   aboutParaTwo:
     "I grew up on a small farm in Virginia with my mother, my father, and my older sister. I was very connected to nature as a young boy and have found inspiration from it ever since. Despite my love of the natural world I was always drawn to city life. After completing my college career at James Madison University, I moved to New York City. I continue to reside here in Bushwick Brooklyn.",
  
-  aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-
+  
+    
   //   End About Section ---------------------
 
   // Skills Section ---------------
@@ -169,6 +164,7 @@ export default {
       para:
         "VS CODE",
     },
+    
   ],
 
   // End Skills Section --------------------------

@@ -1,10 +1,11 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../maindata"
+import PortraitImg from "../images/portrait.png"
 
 const About = () => {
   return (
-    <div className="secion" id="about">
+    <div className="section" id="about">
       <div className="container">
         <div className="about-section">
           <div className="content">
@@ -22,7 +23,7 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img src={data.aboutImage} alt="about"></img>
+            <img src={PortraitImg} alt="about"></img>
           </div>
         </div>
       </div>
